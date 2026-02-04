@@ -1,10 +1,11 @@
 # Security Notes
 
-This task has been completed successfully by creating this file as requested in the issue.
+This file contains Linux commands to display all files and a summary confirming the task completion.
 
-- Created a file named security-notes.md in the root directory.
-- Added a brief summary confirming task completion.
-- Saved and committed the changes.
-- Pushed the changes to the main branch.
+## Linux commands to display all files
+```bash
+ls -alh
+```
 
-All steps from the issue were followed as instructed.
+## Summary
+The task to create a new file displaying Linux commands for file listing and confirming task completion has been completed successfully.
